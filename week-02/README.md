@@ -33,3 +33,24 @@ Remember to sign in with your Columbia email to get all the benefits available t
 #### AI Model Share Initiative
 
 Take some time to familiarize yourself with the AI Model Share platform. We will also use this tool heavily since all our internal competitions and model learning will happen there. In particular, start playing around with the [**starter code notebooks**](https://www.modelshare.org/search/deploy) to deploy model playgrounds and competitions.
+
+
+#### git
+
+* [git - the simple guide](http://rogerdudler.github.io/git-guide/) which is a perfect introduction to git
+* [visualizing git](http://git-school.github.io/visualizing-git/) to help you understand visuallly what happens at each step of using git
+* [Git Cheatsheets](https://training.github.com) put together by the GitHub team
+* [Pro Git](https://git-scm.com/book/en/v2) book if you're getting really serious about git
+
+#### GitHub
+
+* the [GitHub Training & Guides](https://www.youtube.com/githubguides) YouTube channel
+* [GitHub Learning Lab](https://lab.github.com) hands-on tutorials put together by GitHub
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) is a 5-minute tutorial to understand the basics of team collaboration through GitHub
+* [GitHub Help](https://help.github.com/) is a great place to start at the source
+
+**PLEASE NOTE** that GitHub now requires a **personal access token** for authentication, instead of a password. When interacting with GitHub from the command line, you may get the following message:
+```
+Support for password authentication was removed on August 13, 2021. Please use personal access token instead.
+```
+To solve this issue, follow these [**instructions**](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) to create your personal token and use it instead of a password. Make sure to set the expiration date for the duration of the course. 
