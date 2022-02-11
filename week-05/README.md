@@ -10,8 +10,3 @@
 <br>
 
 ---
-
-
-### Complementary Resources
-
-#### Google Colaboratory
